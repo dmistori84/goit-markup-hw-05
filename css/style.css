@@ -606,7 +606,7 @@ img {
   background: #f5f4fa;
   border-color: transparent;
   border-radius: 4px;
-  transition-property: background-color, color;
+  transition-property: background-color, color, box-shadow;
   transition-duration: var(--td);
   transition-timing-function: var(--tf);
 }
